@@ -1,0 +1,36 @@
+body{
+    background-color: #F1f5f8;
+}
+#outer{
+    border-radius: 20px;
+    width: 600px;
+    height: auto;
+    text-align: center;
+    margin: 10px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    position: fixed;
+    top: 80px;
+    left: 400px;
+    background-color: white;
+}
+h1{
+    font-size: 25px;
+    color: midnightblue;
+    padding: 2px;
+}
+#input{
+    width: 450px;
+    height: 20px;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+#btn{
+    width: 75px;
+    height: auto;
+    position: relative;
+    right: 5px;
+    top: 1px;
+    font-size: 18px;
+    text-align: center;   
+}
